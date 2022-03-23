@@ -1,3 +1,4 @@
-# Libasm
-	Implementation of some system calls and C stdlib functions in assembly.
-	Compilation works on both Mac and Linux, a unit tester is also provided.
+# Lib Assembly
+> Your libasm is trash.
+> 
+> -- <cite>[Harm Smit](https://github.com/harm-smits)</cite>
